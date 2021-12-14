@@ -1,0 +1,40 @@
+Now for some non-functional testing!
+
+For our first non-functional testing activity, your task is to review this website, User Interface (https://userinyerface.com/).
+
+Write out a list of issues you encounter while attempting to complete the user flow of this website, good luck!
+
+1. This website called BAGAAR s user interface wrote wrong --->User inyerface
+
+2. "Hi and welcome to User Inyerface,
+a challenging exploration of
+user interactions and design patterns." --> should be Interface
+
+3. To play the game, simply fill in the form
+as fast and accurate as possible. --> button called "NO"--> shoul be "YES"
+
+4. Please click HERE to GO to the next page--?click does not work. When you click "HERE" new frame appears with a timer.
+It need some information about user 
+-Choose Password
+-Your email
+-@ Domain
+-I do not accept the Terms & Conditions
+
+5. Next button does not work
+6. Reset button does not work
+
+7. Cancel button works with pop-up 
+Are you sure you want to cancel?
+Yes
+Cancel
+
+8. when you click the BAGAAR button it navigates the BAGAAR`s home page.
+https://www.bagaar.be/
+9. Home page dashboard
+Work
+Services
+About
+Blog
+Careers
+Contact
+
